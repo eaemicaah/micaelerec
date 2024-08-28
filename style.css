@@ -1,0 +1,8 @@
+:root {
+ --cor-de-fonte:rgb(250, 245, 245);
+ --cor-do-fundo:blueviolet;
+}
+body{
+    color:var(--cor-de-fonte)
+ background-color:var
+}
